@@ -1,0 +1,15 @@
+name = "pirsch"
+main = "src/index.js"
+account_id = "c1e51f1bd83aab3454185eca53c3c354"
+compatibility_date = "2025-01-15" # Use today's date
+site = { bucket = "./public" }
+
+
+[vars]
+PIRSH_PARROLABS_COM_KEY = "pa_pyigE3aZpozbfy6gxePjRqgdaORpsNuqJhcTziEIWvzaO"
+PIRSH_REFORMER_AGENCY_KEY = "pa_5WDGcGiJQP7PcT3PLzzl7zHX0fUZx8KKsZ8Fte5vbs9F05"
+PIRSH_PIEWIRE_LIVE_KEY = "pa_Qy6aZ7GaS8JzA5ApXwA4SprBY8EHYjYFUI3fKAp24draG"
+PIRSH_BUDDHIMOVES_COM_KEY = "pa_4ymTDKJwaUnP4eTSVHTgbYWxEr6qKocCtvvZ8j78Ev4do"
+PIRSH_NOCODEBANDITS_COM_KEY = "pa_y6l2hlLar7tbygQeePis5O0schRIg9pOMQfiMdZngsSZp"
+PIRSH_WWW_NOCODEBANDITS_COM_KEY = "pa_y6l2hlLar7tbygQeePis5O0schRIg9pOMQfiMdZngsSZp"
+
